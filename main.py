@@ -10,11 +10,7 @@ lands on the last few words.
 
 import os
 
-ENTRY = (
-    "The committee chair who decides what your AI is allowed to say "
-    "once asked his intern to download a PDF into Word, then blamed "
-    "the printer."
-)
+ENTRY = "The committee chair who decides what your AI is allowed to say once asked his intern to download a PDF into Word, then blamed the printer."
 
 OUTPUT_PATH = "/output/entry.txt"
 
